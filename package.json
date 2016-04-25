@@ -1,0 +1,27 @@
+{
+  "name": "derjs",
+  "version": "0.0.1",
+  "description": "DER encoding for nodejs",
+  "main": "src/der.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattdot/derjs"
+  },
+  "keywords": [
+    "DER",
+    "ASN.1",
+    "ASN1"
+  ],
+  "author": "Matt Dotson <mdotson@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdot/derjs/issues"
+  },
+  "homepage": "https://github.com/mattdot/derjs",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
